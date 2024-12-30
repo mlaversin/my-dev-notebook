@@ -1,0 +1,15 @@
+@use "styles/reset.scss";
+@use "styles/variables.scss";
+@use "styles/fonts.scss";
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Poppins';
+}
+
+h1 {
+  font-weight: 600;
+}
